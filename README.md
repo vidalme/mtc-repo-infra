@@ -1,2 +1,2 @@
-# mtc-repo-infra
-terraform - mtc awesome codebase
+# This prod terraform repository is for infra developers.
+Last time changed by Andre Vidal
